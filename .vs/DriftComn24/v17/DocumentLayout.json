@@ -1,0 +1,461 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\C# projekty\\DriftComn24\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{11B48B02-F9AC-434B-8526-BBFDA362C345}|DriftComn24.csproj|e:\\c# projekty\\driftcomn24\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{11B48B02-F9AC-434B-8526-BBFDA362C345}|DriftComn24.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11B48B02-F9AC-434B-8526-BBFDA362C345}|DriftComn24.csproj|e:\\c# projekty\\driftcomn24\\wwwroot\\js\\invalid-feedback.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{11B48B02-F9AC-434B-8526-BBFDA362C345}|DriftComn24.csproj|solutionrelative:wwwroot\\js\\invalid-feedback.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11B48B02-F9AC-434B-8526-BBFDA362C345}|DriftComn24.csproj|e:\\c# projekty\\driftcomn24\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{11B48B02-F9AC-434B-8526-BBFDA362C345}|DriftComn24.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11B48B02-F9AC-434B-8526-BBFDA362C345}|DriftComn24.csproj|e:\\c# projekty\\driftcomn24\\views\\shared\\_layout.cshtml.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{11B48B02-F9AC-434B-8526-BBFDA362C345}|DriftComn24.csproj|solutionrelative:views\\shared\\_layout.cshtml.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11B48B02-F9AC-434B-8526-BBFDA362C345}|DriftComn24.csproj|e:\\c# projekty\\driftcomn24\\views\\loginreg\\log_in.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{11B48B02-F9AC-434B-8526-BBFDA362C345}|DriftComn24.csproj|solutionrelative:views\\loginreg\\log_in.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11B48B02-F9AC-434B-8526-BBFDA362C345}|DriftComn24.csproj|e:\\c# projekty\\driftcomn24\\views\\loginreg\\log_in.cshtml.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{11B48B02-F9AC-434B-8526-BBFDA362C345}|DriftComn24.csproj|solutionrelative:views\\loginreg\\log_in.cshtml.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11B48B02-F9AC-434B-8526-BBFDA362C345}|DriftComn24.csproj|e:\\c# projekty\\driftcomn24\\views\\loginreg\\reg_in.cshtml.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{11B48B02-F9AC-434B-8526-BBFDA362C345}|DriftComn24.csproj|solutionrelative:views\\loginreg\\reg_in.cshtml.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11B48B02-F9AC-434B-8526-BBFDA362C345}|DriftComn24.csproj|e:\\c# projekty\\driftcomn24\\views\\loginreg\\reg_in.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{11B48B02-F9AC-434B-8526-BBFDA362C345}|DriftComn24.csproj|solutionrelative:views\\loginreg\\reg_in.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11B48B02-F9AC-434B-8526-BBFDA362C345}|DriftComn24.csproj|e:\\c# projekty\\driftcomn24\\wwwroot\\js\\tracksindex.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{11B48B02-F9AC-434B-8526-BBFDA362C345}|DriftComn24.csproj|solutionrelative:wwwroot\\js\\tracksindex.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11B48B02-F9AC-434B-8526-BBFDA362C345}|DriftComn24.csproj|e:\\c# projekty\\driftcomn24\\wwwroot\\js\\indexskins.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{11B48B02-F9AC-434B-8526-BBFDA362C345}|DriftComn24.csproj|solutionrelative:wwwroot\\js\\indexskins.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11B48B02-F9AC-434B-8526-BBFDA362C345}|DriftComn24.csproj|e:\\c# projekty\\driftcomn24\\what to need do.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{11B48B02-F9AC-434B-8526-BBFDA362C345}|DriftComn24.csproj|solutionrelative:what to need do.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11B48B02-F9AC-434B-8526-BBFDA362C345}|DriftComn24.csproj|e:\\c# projekty\\driftcomn24\\controllers\\regcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11B48B02-F9AC-434B-8526-BBFDA362C345}|DriftComn24.csproj|solutionrelative:controllers\\regcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11B48B02-F9AC-434B-8526-BBFDA362C345}|DriftComn24.csproj|e:\\c# projekty\\driftcomn24\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11B48B02-F9AC-434B-8526-BBFDA362C345}|DriftComn24.csproj|solutionrelative:controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11B48B02-F9AC-434B-8526-BBFDA362C345}|DriftComn24.csproj|e:\\c# projekty\\driftcomn24\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11B48B02-F9AC-434B-8526-BBFDA362C345}|DriftComn24.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11B48B02-F9AC-434B-8526-BBFDA362C345}|DriftComn24.csproj|e:\\c# projekty\\driftcomn24\\views\\home\\index.cshtml.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{11B48B02-F9AC-434B-8526-BBFDA362C345}|DriftComn24.csproj|solutionrelative:views\\home\\index.cshtml.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11B48B02-F9AC-434B-8526-BBFDA362C345}|DriftComn24.csproj|e:\\c# projekty\\driftcomn24\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11B48B02-F9AC-434B-8526-BBFDA362C345}|DriftComn24.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11B48B02-F9AC-434B-8526-BBFDA362C345}|DriftComn24.csproj|e:\\c# projekty\\driftcomn24\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{11B48B02-F9AC-434B-8526-BBFDA362C345}|DriftComn24.csproj|solutionrelative:views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11B48B02-F9AC-434B-8526-BBFDA362C345}|DriftComn24.csproj|e:\\c# projekty\\driftcomn24\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{11B48B02-F9AC-434B-8526-BBFDA362C345}|DriftComn24.csproj|solutionrelative:views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11B48B02-F9AC-434B-8526-BBFDA362C345}|DriftComn24.csproj|e:\\c# projekty\\driftcomn24\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{11B48B02-F9AC-434B-8526-BBFDA362C345}|DriftComn24.csproj|solutionrelative:views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11B48B02-F9AC-434B-8526-BBFDA362C345}|DriftComn24.csproj|e:\\c# projekty\\driftcomn24\\textfile.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{11B48B02-F9AC-434B-8526-BBFDA362C345}|DriftComn24.csproj|solutionrelative:textfile.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11B48B02-F9AC-434B-8526-BBFDA362C345}|DriftComn24.csproj|e:\\c# projekty\\driftcomn24\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{11B48B02-F9AC-434B-8526-BBFDA362C345}|DriftComn24.csproj|solutionrelative:wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11B48B02-F9AC-434B-8526-BBFDA362C345}|DriftComn24.csproj|e:\\c# projekty\\driftcomn24\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11B48B02-F9AC-434B-8526-BBFDA362C345}|DriftComn24.csproj|solutionrelative:models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11B48B02-F9AC-434B-8526-BBFDA362C345}|DriftComn24.csproj|e:\\c# projekty\\driftcomn24\\wwwroot\\js\\index.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{11B48B02-F9AC-434B-8526-BBFDA362C345}|DriftComn24.csproj|solutionrelative:wwwroot\\js\\index.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11B48B02-F9AC-434B-8526-BBFDA362C345}|DriftComn24.csproj|e:\\c# projekty\\driftcomn24\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{11B48B02-F9AC-434B-8526-BBFDA362C345}|DriftComn24.csproj|solutionrelative:views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11B48B02-F9AC-434B-8526-BBFDA362C345}|DriftComn24.csproj|e:\\c# projekty\\driftcomn24\\wwwroot\\js\\driftcarspacks.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{11B48B02-F9AC-434B-8526-BBFDA362C345}|DriftComn24.csproj|solutionrelative:wwwroot\\js\\driftcarspacks.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11B48B02-F9AC-434B-8526-BBFDA362C345}|DriftComn24.csproj|e:\\c# projekty\\driftcomn24\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{11B48B02-F9AC-434B-8526-BBFDA362C345}|DriftComn24.csproj|solutionrelative:wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11B48B02-F9AC-434B-8526-BBFDA362C345}|DriftComn24.csproj|e:\\c# projekty\\driftcomn24\\wwwroot\\js\\indexchampioship.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{11B48B02-F9AC-434B-8526-BBFDA362C345}|DriftComn24.csproj|solutionrelative:wwwroot\\js\\indexchampioship.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 27,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Invalid-feedback.js",
+              "DocumentMoniker": "E:\\C# projekty\\DriftComn24\\wwwroot\\js\\Invalid-feedback.js",
+              "RelativeDocumentMoniker": "wwwroot\\js\\Invalid-feedback.js",
+              "ToolTip": "E:\\C# projekty\\DriftComn24\\wwwroot\\js\\Invalid-feedback.js",
+              "RelativeToolTip": "wwwroot\\js\\Invalid-feedback.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-09-13T13:35:04.904Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "What to need do.txt",
+              "DocumentMoniker": "E:\\C# projekty\\DriftComn24\\What to need do.txt",
+              "RelativeDocumentMoniker": "What to need do.txt",
+              "ToolTip": "E:\\C# projekty\\DriftComn24\\What to need do.txt",
+              "RelativeToolTip": "What to need do.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-09-13T12:27:10.203Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Reg_in.cshtml.css",
+              "DocumentMoniker": "E:\\C# projekty\\DriftComn24\\Views\\LoginReg\\Reg_in.cshtml.css",
+              "RelativeDocumentMoniker": "Views\\LoginReg\\Reg_in.cshtml.css",
+              "ToolTip": "E:\\C# projekty\\DriftComn24\\Views\\LoginReg\\Reg_in.cshtml.css",
+              "RelativeToolTip": "Views\\LoginReg\\Reg_in.cshtml.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-09-13T08:12:01.854Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Reg_in.cshtml",
+              "DocumentMoniker": "E:\\C# projekty\\DriftComn24\\Views\\LoginReg\\Reg_in.cshtml",
+              "RelativeDocumentMoniker": "Views\\LoginReg\\Reg_in.cshtml",
+              "ToolTip": "E:\\C# projekty\\DriftComn24\\Views\\LoginReg\\Reg_in.cshtml",
+              "RelativeToolTip": "Views\\LoginReg\\Reg_in.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-08T18:22:30.778Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "RegController.cs",
+              "DocumentMoniker": "E:\\C# projekty\\DriftComn24\\Controllers\\RegController.cs",
+              "RelativeDocumentMoniker": "Controllers\\RegController.cs",
+              "ToolTip": "E:\\C# projekty\\DriftComn24\\Controllers\\RegController.cs",
+              "RelativeToolTip": "Controllers\\RegController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-08T18:24:47.728Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Log_in.cshtml",
+              "DocumentMoniker": "E:\\C# projekty\\DriftComn24\\Views\\LoginReg\\Log_in.cshtml",
+              "RelativeDocumentMoniker": "Views\\LoginReg\\Log_in.cshtml",
+              "ToolTip": "E:\\C# projekty\\DriftComn24\\Views\\LoginReg\\Log_in.cshtml",
+              "RelativeToolTip": "Views\\LoginReg\\Log_in.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-06T10:16:34.619Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Log_in.cshtml.css",
+              "DocumentMoniker": "E:\\C# projekty\\DriftComn24\\Views\\LoginReg\\Log_in.cshtml.css",
+              "RelativeDocumentMoniker": "Views\\LoginReg\\Log_in.cshtml.css",
+              "ToolTip": "E:\\C# projekty\\DriftComn24\\Views\\LoginReg\\Log_in.cshtml.css",
+              "RelativeToolTip": "Views\\LoginReg\\Log_in.cshtml.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-09-06T12:30:47.795Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "E:\\C# projekty\\DriftComn24\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Views\\_ViewStart.cshtml",
+              "ToolTip": "E:\\C# projekty\\DriftComn24\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "Views\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-06T12:23:44.14Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "E:\\C# projekty\\DriftComn24\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Views\\_ViewImports.cshtml",
+              "ToolTip": "E:\\C# projekty\\DriftComn24\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "Views\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-06T12:23:39.923Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "LoginController.cs",
+              "DocumentMoniker": "E:\\C# projekty\\DriftComn24\\Controllers\\LoginController.cs",
+              "RelativeDocumentMoniker": "Controllers\\LoginController.cs",
+              "ToolTip": "E:\\C# projekty\\DriftComn24\\Controllers\\LoginController.cs",
+              "RelativeToolTip": "Controllers\\LoginController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-06T10:42:16.909Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "E:\\C# projekty\\DriftComn24\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Privacy.cshtml",
+              "ToolTip": "E:\\C# projekty\\DriftComn24\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "Views\\Home\\Privacy.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-06T09:32:52.769Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "E:\\C# projekty\\DriftComn24\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "E:\\C# projekty\\DriftComn24\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-06T09:31:02.54Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\C# projekty\\DriftComn24\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "E:\\C# projekty\\DriftComn24\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-06T09:30:26.963Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "DriftCarsPacks.js",
+              "DocumentMoniker": "E:\\C# projekty\\DriftComn24\\wwwroot\\js\\DriftCarsPacks.js",
+              "RelativeDocumentMoniker": "wwwroot\\js\\DriftCarsPacks.js",
+              "ToolTip": "E:\\C# projekty\\DriftComn24\\wwwroot\\js\\DriftCarsPacks.js",
+              "RelativeToolTip": "wwwroot\\js\\DriftCarsPacks.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-08-28T10:00:36.03Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "E:\\C# projekty\\DriftComn24\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "Models\\ErrorViewModel.cs",
+              "ToolTip": "E:\\C# projekty\\DriftComn24\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "Models\\ErrorViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T10:00:11.512Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "E:\\C# projekty\\DriftComn24\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "E:\\C# projekty\\DriftComn24\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAA1wB8AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T09:59:40.656Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Index.js",
+              "DocumentMoniker": "E:\\C# projekty\\DriftComn24\\wwwroot\\js\\Index.js",
+              "RelativeDocumentMoniker": "wwwroot\\js\\Index.js",
+              "ToolTip": "E:\\C# projekty\\DriftComn24\\wwwroot\\js\\Index.js",
+              "RelativeToolTip": "wwwroot\\js\\Index.js",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-08-02T17:27:30.499Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IndexSkins.js",
+              "DocumentMoniker": "E:\\C# projekty\\DriftComn24\\wwwroot\\js\\IndexSkins.js",
+              "RelativeDocumentMoniker": "wwwroot\\js\\IndexSkins.js",
+              "ToolTip": "E:\\C# projekty\\DriftComn24\\wwwroot\\js\\IndexSkins.js",
+              "RelativeToolTip": "wwwroot\\js\\IndexSkins.js",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAiwB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-08-02T16:21:02.222Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "IndexChampioship.js",
+              "DocumentMoniker": "E:\\C# projekty\\DriftComn24\\wwwroot\\js\\IndexChampioship.js",
+              "RelativeDocumentMoniker": "wwwroot\\js\\IndexChampioship.js",
+              "ToolTip": "E:\\C# projekty\\DriftComn24\\wwwroot\\js\\IndexChampioship.js",
+              "RelativeToolTip": "wwwroot\\js\\IndexChampioship.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-08-02T08:24:14.216Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "TracksIndex.js",
+              "DocumentMoniker": "E:\\C# projekty\\DriftComn24\\wwwroot\\js\\TracksIndex.js",
+              "RelativeDocumentMoniker": "wwwroot\\js\\TracksIndex.js",
+              "ToolTip": "E:\\C# projekty\\DriftComn24\\wwwroot\\js\\TracksIndex.js",
+              "RelativeToolTip": "wwwroot\\js\\TracksIndex.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-07-28T12:05:58.727Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "site.js",
+              "DocumentMoniker": "E:\\C# projekty\\DriftComn24\\wwwroot\\js\\site.js",
+              "RelativeDocumentMoniker": "wwwroot\\js\\site.js",
+              "ToolTip": "E:\\C# projekty\\DriftComn24\\wwwroot\\js\\site.js",
+              "RelativeToolTip": "wwwroot\\js\\site.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-07-19T16:07:41.247Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "TextFile.txt",
+              "DocumentMoniker": "E:\\C# projekty\\DriftComn24\\TextFile.txt",
+              "RelativeDocumentMoniker": "TextFile.txt",
+              "ToolTip": "E:\\C# projekty\\DriftComn24\\TextFile.txt",
+              "RelativeToolTip": "TextFile.txt",
+              "ViewState": "AQIAACEAAAAAAAAAAAAAAEAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-06-21T10:42:23.59Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "site.css",
+              "DocumentMoniker": "E:\\C# projekty\\DriftComn24\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "wwwroot\\css\\site.css",
+              "ToolTip": "E:\\C# projekty\\DriftComn24\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "wwwroot\\css\\site.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-06-21T11:58:23.567Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_Layout.cshtml.css",
+              "DocumentMoniker": "E:\\C# projekty\\DriftComn24\\Views\\Shared\\_Layout.cshtml.css",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml.css",
+              "ToolTip": "E:\\C# projekty\\DriftComn24\\Views\\Shared\\_Layout.cshtml.css",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-08-02T15:52:26.449Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "E:\\C# projekty\\DriftComn24\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "E:\\C# projekty\\DriftComn24\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-29T15:28:06.219Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Index.cshtml.css",
+              "DocumentMoniker": "E:\\C# projekty\\DriftComn24\\Views\\Home\\Index.cshtml.css",
+              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml.css",
+              "ToolTip": "E:\\C# projekty\\DriftComn24\\Views\\Home\\Index.cshtml.css",
+              "RelativeToolTip": "Views\\Home\\Index.cshtml.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACwAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-07-19T13:51:56.145Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "E:\\C# projekty\\DriftComn24\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
+              "ToolTip": "E:\\C# projekty\\DriftComn24\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAALoAAAAAAAAAAAAAAAQAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-05T16:14:15.562Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

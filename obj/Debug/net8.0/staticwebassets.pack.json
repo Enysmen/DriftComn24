@@ -1,0 +1,417 @@
+{
+  "Files": [
+    {
+      "Id": "E:\\C# projekty\\DriftComn24\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\DriftComn24.bundle.scp.css",
+      "PackagePath": "staticwebassets\\DriftComn24.bundle.scp.css"
+    },
+    {
+      "Id": "E:\\C# projekty\\DriftComn24\\wwwroot\\Images\\ADL STREET.png",
+      "PackagePath": "staticwebassets\\Images\\ADL STREET.png"
+    },
+    {
+      "Id": "E:\\C# projekty\\DriftComn24\\wwwroot\\Images\\Bikernieki Longwall.png",
+      "PackagePath": "staticwebassets\\Images\\Bikernieki Longwall.png"
+    },
+    {
+      "Id": "E:\\C# projekty\\DriftComn24\\wwwroot\\Images\\DCGP SEASON X.png",
+      "PackagePath": "staticwebassets\\Images\\DCGP SEASON X.png"
+    },
+    {
+      "Id": "E:\\C# projekty\\DriftComn24\\wwwroot\\Images\\DCGP X Kounmori Touge.png",
+      "PackagePath": "staticwebassets\\Images\\DCGP X Kounmori Touge.png"
+    },
+    {
+      "Id": "E:\\C# projekty\\DriftComn24\\wwwroot\\Images\\DCGP X Motorland.png",
+      "PackagePath": "staticwebassets\\Images\\DCGP X Motorland.png"
+    },
+    {
+      "Id": "E:\\C# projekty\\DriftComn24\\wwwroot\\Images\\DCGP X.png",
+      "PackagePath": "staticwebassets\\Images\\DCGP X.png"
+    },
+    {
+      "Id": "E:\\C# projekty\\DriftComn24\\wwwroot\\Images\\Drift NWA Toge.png",
+      "PackagePath": "staticwebassets\\Images\\Drift NWA Toge.png"
+    },
+    {
+      "Id": "E:\\C# projekty\\DriftComn24\\wwwroot\\Images\\EDN 2024 Goiânia .png",
+      "PackagePath": "staticwebassets\\Images\\EDN 2024 Goiânia .png"
+    },
+    {
+      "Id": "E:\\C# projekty\\DriftComn24\\wwwroot\\Images\\EDN 2024 Interlagos.png",
+      "PackagePath": "staticwebassets\\Images\\EDN 2024 Interlagos.png"
+    },
+    {
+      "Id": "E:\\C# projekty\\DriftComn24\\wwwroot\\Images\\EDN 2024 Velocitta.png",
+      "PackagePath": "staticwebassets\\Images\\EDN 2024 Velocitta.png"
+    },
+    {
+      "Id": "E:\\C# projekty\\DriftComn24\\wwwroot\\Images\\EDN 2024-Arens.png",
+      "PackagePath": "staticwebassets\\Images\\EDN 2024-Arens.png"
+    },
+    {
+      "Id": "E:\\C# projekty\\DriftComn24\\wwwroot\\Images\\EDN Japan.png",
+      "PackagePath": "staticwebassets\\Images\\EDN Japan.png"
+    },
+    {
+      "Id": "E:\\C# projekty\\DriftComn24\\wwwroot\\Images\\ESDA Barbagallo 2024.png",
+      "PackagePath": "staticwebassets\\Images\\ESDA Barbagallo 2024.png"
+    },
+    {
+      "Id": "E:\\C# projekty\\DriftComn24\\wwwroot\\Images\\ESDA Champ.png",
+      "PackagePath": "staticwebassets\\Images\\ESDA Champ.png"
+    },
+    {
+      "Id": "E:\\C# projekty\\DriftComn24\\wwwroot\\Images\\ESDA Road Atlanta.png",
+      "PackagePath": "staticwebassets\\Images\\ESDA Road Atlanta.png"
+    },
+    {
+      "Id": "E:\\C# projekty\\DriftComn24\\wwwroot\\Images\\ESDA Texas Motor Speedway.png",
+      "PackagePath": "staticwebassets\\Images\\ESDA Texas Motor Speedway.png"
+    },
+    {
+      "Id": "E:\\C# projekty\\DriftComn24\\wwwroot\\Images\\ESDA V1.0.png",
+      "PackagePath": "staticwebassets\\Images\\ESDA V1.0.png"
+    },
+    {
+      "Id": "E:\\C# projekty\\DriftComn24\\wwwroot\\Images\\FDC 2023.png",
+      "PackagePath": "staticwebassets\\Images\\FDC 2023.png"
+    },
+    {
+      "Id": "E:\\C# projekty\\DriftComn24\\wwwroot\\Images\\GT7.png",
+      "PackagePath": "staticwebassets\\Images\\GT7.png"
+    },
+    {
+      "Id": "E:\\C# projekty\\DriftComn24\\wwwroot\\Images\\IVDC Champs.png",
+      "PackagePath": "staticwebassets\\Images\\IVDC Champs.png"
+    },
+    {
+      "Id": "E:\\C# projekty\\DriftComn24\\wwwroot\\Images\\IVDC PUBLIC.png",
+      "PackagePath": "staticwebassets\\Images\\IVDC PUBLIC.png"
+    },
+    {
+      "Id": "E:\\C# projekty\\DriftComn24\\wwwroot\\Images\\Logos.png",
+      "PackagePath": "staticwebassets\\Images\\Logos.png"
+    },
+    {
+      "Id": "E:\\C# projekty\\DriftComn24\\wwwroot\\Images\\Maksim.png",
+      "PackagePath": "staticwebassets\\Images\\Maksim.png"
+    },
+    {
+      "Id": "E:\\C# projekty\\DriftComn24\\wwwroot\\Images\\P1XL.png",
+      "PackagePath": "staticwebassets\\Images\\P1XL.png"
+    },
+    {
+      "Id": "E:\\C# projekty\\DriftComn24\\wwwroot\\Images\\PRO SPEC.png",
+      "PackagePath": "staticwebassets\\Images\\PRO SPEC.png"
+    },
+    {
+      "Id": "E:\\C# projekty\\DriftComn24\\wwwroot\\Images\\RTR Riga.png",
+      "PackagePath": "staticwebassets\\Images\\RTR Riga.png"
+    },
+    {
+      "Id": "E:\\C# projekty\\DriftComn24\\wwwroot\\Images\\VDC Champs.png",
+      "PackagePath": "staticwebassets\\Images\\VDC Champs.png"
+    },
+    {
+      "Id": "E:\\C# projekty\\DriftComn24\\wwwroot\\Images\\VDC V4.1.png",
+      "PackagePath": "staticwebassets\\Images\\VDC V4.1.png"
+    },
+    {
+      "Id": "E:\\C# projekty\\DriftComn24\\wwwroot\\Images\\Xamastios.png",
+      "PackagePath": "staticwebassets\\Images\\Xamastios.png"
+    },
+    {
+      "Id": "E:\\C# projekty\\DriftComn24\\wwwroot\\Images\\bitlook.png",
+      "PackagePath": "staticwebassets\\Images\\bitlook.png"
+    },
+    {
+      "Id": "E:\\C# projekty\\DriftComn24\\wwwroot\\Images\\shadowrealmgg.png",
+      "PackagePath": "staticwebassets\\Images\\shadowrealmgg.png"
+    },
+    {
+      "Id": "E:\\C# projekty\\DriftComn24\\wwwroot\\Images\\teamconfusa.png",
+      "PackagePath": "staticwebassets\\Images\\teamconfusa.png"
+    },
+    {
+      "Id": "E:\\C# projekty\\DriftComn24\\wwwroot\\Images\\vosan.png",
+      "PackagePath": "staticwebassets\\Images\\vosan.png"
+    },
+    {
+      "Id": "E:\\C# projekty\\DriftComn24\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "E:\\C# projekty\\DriftComn24\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "E:\\C# projekty\\DriftComn24\\wwwroot\\js\\DriftCarsPacks.js",
+      "PackagePath": "staticwebassets\\js\\DriftCarsPacks.js"
+    },
+    {
+      "Id": "E:\\C# projekty\\DriftComn24\\wwwroot\\js\\Index.js",
+      "PackagePath": "staticwebassets\\js\\Index.js"
+    },
+    {
+      "Id": "E:\\C# projekty\\DriftComn24\\wwwroot\\js\\IndexSkins.js",
+      "PackagePath": "staticwebassets\\js\\IndexSkins.js"
+    },
+    {
+      "Id": "E:\\C# projekty\\DriftComn24\\wwwroot\\js\\Invalid-feedback.js",
+      "PackagePath": "staticwebassets\\js\\Invalid-feedback.js"
+    },
+    {
+      "Id": "E:\\C# projekty\\DriftComn24\\wwwroot\\js\\TracksIndex.js",
+      "PackagePath": "staticwebassets\\js\\TracksIndex.js"
+    },
+    {
+      "Id": "E:\\C# projekty\\DriftComn24\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "E:\\C# projekty\\DriftComn24\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "E:\\C# projekty\\DriftComn24\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "E:\\C# projekty\\DriftComn24\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "E:\\C# projekty\\DriftComn24\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "E:\\C# projekty\\DriftComn24\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "E:\\C# projekty\\DriftComn24\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "E:\\C# projekty\\DriftComn24\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "E:\\C# projekty\\DriftComn24\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "E:\\C# projekty\\DriftComn24\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "E:\\C# projekty\\DriftComn24\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "E:\\C# projekty\\DriftComn24\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "E:\\C# projekty\\DriftComn24\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "E:\\C# projekty\\DriftComn24\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "E:\\C# projekty\\DriftComn24\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "E:\\C# projekty\\DriftComn24\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "E:\\C# projekty\\DriftComn24\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "E:\\C# projekty\\DriftComn24\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "E:\\C# projekty\\DriftComn24\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "E:\\C# projekty\\DriftComn24\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "E:\\C# projekty\\DriftComn24\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "E:\\C# projekty\\DriftComn24\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "E:\\C# projekty\\DriftComn24\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "E:\\C# projekty\\DriftComn24\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "E:\\C# projekty\\DriftComn24\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "E:\\C# projekty\\DriftComn24\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "E:\\C# projekty\\DriftComn24\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "E:\\C# projekty\\DriftComn24\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "E:\\C# projekty\\DriftComn24\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "E:\\C# projekty\\DriftComn24\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "E:\\C# projekty\\DriftComn24\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "E:\\C# projekty\\DriftComn24\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "E:\\C# projekty\\DriftComn24\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "E:\\C# projekty\\DriftComn24\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "E:\\C# projekty\\DriftComn24\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "E:\\C# projekty\\DriftComn24\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "E:\\C# projekty\\DriftComn24\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "E:\\C# projekty\\DriftComn24\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "E:\\C# projekty\\DriftComn24\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "E:\\C# projekty\\DriftComn24\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "E:\\C# projekty\\DriftComn24\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "E:\\C# projekty\\DriftComn24\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "E:\\C# projekty\\DriftComn24\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "E:\\C# projekty\\DriftComn24\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "E:\\C# projekty\\DriftComn24\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "E:\\C# projekty\\DriftComn24\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "E:\\C# projekty\\DriftComn24\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "E:\\C# projekty\\DriftComn24\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "E:\\C# projekty\\DriftComn24\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "E:\\C# projekty\\DriftComn24\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "E:\\C# projekty\\DriftComn24\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "E:\\C# projekty\\DriftComn24\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "E:\\C# projekty\\DriftComn24\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "E:\\C# projekty\\DriftComn24\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "E:\\C# projekty\\DriftComn24\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "E:\\C# projekty\\DriftComn24\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "E:\\C# projekty\\DriftComn24\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "E:\\C# projekty\\DriftComn24\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.DriftComn24.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.DriftComn24.props",
+      "PackagePath": "build\\DriftComn24.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.DriftComn24.props",
+      "PackagePath": "buildMultiTargeting\\DriftComn24.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.DriftComn24.props",
+      "PackagePath": "buildTransitive\\DriftComn24.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

@@ -1,0 +1,102 @@
+﻿@{
+    ViewData["Title"] = "Registration";
+}
+@section Scripts {
+    <script src="~/lib/jquery/dist/jquery.min.js"></script>
+    <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="~/js/Invalid-feedback.js"></script>
+}
+
+<div class="container-sm formss">
+    <form class="row g-3 needs-validation justify-content-center " novalidate>
+        <div class="col-sm-4">
+            <label for="ValidationFormFirstName" class="form-label">First Name*:</label>
+            <div class="has-validation">
+                <input type="text" class="form-control" id="ValidationFormFirstName" placeholder="First Name" required>
+                <div class="valid-feedback">It's your Name ha..</div>
+                <div class="invalid-feedback">Fill in the field!</div>
+            </div>
+        </div>
+
+        <div class="col-sm-4">
+            <label for="ValidationFormLastName" class="form-label">Last Name*:</label>
+            <input type="text" class="form-control" id="ValidationFormLastName" placeholder="Last Name" required>
+            <div class="valid-feedback">._.</div>
+            <div class="invalid-feedback">Fill in the field!</div>
+        </div>
+
+        <div class="col-sm-4">
+             <label for="ValidationYourNickname" class="form-label">Your Nickname*:</label>
+             <div class="input-group has-validation">
+                <span class="input-group-text" id="LatticeGroupNick">#</span>
+                <input type="text" class="form-control" id="ValidationYourNickname" aria-describedby="LatticeGroupNick" required>'
+             <div class="valid-feedback">could have come up with something better</div>
+             <div class="invalid-feedback">Please select a username.</div>
+        </div>
+        </div>        
+
+        <div class="col-sm-6">
+            <label for="ValidationSteamID" class="form-label">Steam ID:</label>
+            <input type="text" class="form-control" id="ValidationSteamID" placeholder="For example:SteamID64 - 76561197960287930 or URL link" required>
+            <div class="valid-feedback">Okey</div>
+            <div class="invalid-feedback">Please specify steam ID</div>
+        </div>
+
+
+        <div class="col-sm-3">
+            <label for="ValidationDiscord" class="form-label">Discord*:</label>
+            <input type="text" class="form-control" id="ValidationDiscord" placeholder="For example:MisSales#8795" required>
+            <div class="valid-feedback">haha it's nickname in discord...'</div>
+            <div class="invalid-feedback">Please specify Discord</div>
+        </div>
+
+        <div class="col-sm-3">
+            <label for="ValidationDiscord" class="form-label">Your pilot's license: </label>
+            <input type="file" class="form-control" aria-label="File"  required>
+            <div class="valid-feedback">Nice man </div>
+            <div class="invalid-feedback">Select file man</div>
+        </div>
+
+        <div class="col-sm-3">
+            <label for="ValidationRegion" class="form-label mb-3">Region:</label>
+            <select class="form-select" id="ValidationRegion" required>
+                <option selected disabled value="">Select...</option>
+                <option>...</option>
+            </select>
+            <div class="invalid-feedback">Please select the correct city.</div>
+        </div>
+
+        <div class="col-sm-3">
+            <label for="ValidationFormEmail" class="form-label mb-3">Email*:</label>
+            <input type="email" class="form-control" id="ValidationFormEmail" placeholder="Email" required>
+            <div class="valid-feedback"></div>
+            <div class="invalid-feedback">Please specify your Email</div>
+        </div>
+
+        <div class="col-sm-3">
+            <label for="ValidationFormPassword" class="form-label mb-3">Password*:</label>
+            <input type="password" class="form-control" id="ValidationFormPassword" placeholder="Password" required>
+            <div class="valid-feedback">You are capable</div>
+            <div class="invalid-feedback">Please specify your Password</div>
+        </div>
+
+
+        <div class="row-cols-1">
+            <div class="form-check  col-sm-3 mx-auto">
+                <input class="form-check-input mb-sm-2" type="checkbox" value="" id="invalidCheck" required>
+                <label class="form-check-label mb-sm-2" for="invalidCheck"> Accept the terms and conditions. </label>
+                <div class="valid-feedback">Fuck omg your put this check</div>
+                <div class="invalid-feedback"> You must accept before sending.↑</div>
+            </div>
+        </div>
+
+        <div class="d-grid gap-2 col-sm-5 mx-auto">
+            <button class="btn btn-warning mb-3" type="submit"> Register </button>
+        </div>
+
+
+
+
+    </form>
+</div>
+

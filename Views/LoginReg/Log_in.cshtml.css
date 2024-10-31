@@ -1,0 +1,24 @@
+﻿.forms {
+    
+    padding: 250px 0 110px 0;
+
+}
+
+@media (max-width: 576px) {
+    .left,
+    .right {
+        margin-left: 0px;
+        margin-right: 0px;
+    }
+}
+
+.left {
+    margin-right: 8.333333%;
+    position:absolute;
+}
+
+.right {
+    position: relative;
+    display:flex;
+    justify-content:right;
+}

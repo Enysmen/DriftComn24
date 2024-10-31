@@ -1,0 +1,167 @@
+/* _content/DriftComn24/Views/Home/Index.cshtml.rz.scp.css */
+@media (min-width: 576px) {
+    .carousel-inner[b-2p4k26majl] {
+        display: flex;
+        
+    }
+
+    .carousel-item[b-2p4k26majl] {
+        margin-right: 0;
+        flex: 0 0 19.555555%;
+        display: block;
+    }
+
+}
+
+.carousel-inner[b-2p4k26majl] {
+    padding: 1em;
+}
+
+.carousel-control-prev[b-2p4k26majl], .carousel-control-next[b-2p4k26majl] {
+    background-color: #f8ae00;
+    width: 6vh;
+    height: 6vh;
+    border-radius: 40%;
+    top: 35%;
+    transform: translateX(20%);
+}
+
+
+.card[b-2p4k26majl] {
+    margin: 0 .5em;
+    box-shadow: 2px 6px 8px 0 rgba(22, 22, 26, 0.18);
+    border: none;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.cardimgclass[b-2p4k26majl] {
+    min-height: 12rem;
+    -webkit-border-top-left-radius: 5px;
+    -webkit-border-top-right-radius: 5px;
+    -moz-border-radius-topleft: 5px;
+    -moz-border-radius-topright: 5px;
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+}
+/* _content/DriftComn24/Views/LoginReg/Log_in.cshtml.rz.scp.css */
+.forms[b-favtd4ilap] {
+    
+    padding: 250px 0 110px 0;
+
+}
+
+@media (max-width: 576px) {
+    .left[b-favtd4ilap],
+    .right[b-favtd4ilap] {
+        margin-left: 0px;
+        margin-right: 0px;
+    }
+}
+
+.left[b-favtd4ilap] {
+    margin-right: 8.333333%;
+    position:absolute;
+}
+
+.right[b-favtd4ilap] {
+    position: relative;
+    display:flex;
+    justify-content:right;
+}
+/* _content/DriftComn24/Views/LoginReg/Reg_in.cshtml.rz.scp.css */
+.formss[b-3xumopr2ca] {
+    padding: 200px 0 90px 0;
+}
+/* _content/DriftComn24/Views/Shared/_Layout.cshtml.rz.scp.css */
+/* Please see documentation at https://learn.microsoft.com/aspnet/core/client-side/bundling-and-minification
+for details on configuring this project to bundle and minify static web assets. */
+
+a.navbar-brand[b-h7gs6dorbd] {
+  white-space: normal;
+  text-align: center;
+  word-break: break-all;
+}
+
+a[b-h7gs6dorbd] {
+
+}
+
+.btn-primary[b-h7gs6dorbd] {
+  color: #fff;
+  background-color: #1b6ec2;
+  border-color: #1861ac;
+}
+
+.nav-pills .nav-link.active[b-h7gs6dorbd], .nav-pills .show > .nav-link[b-h7gs6dorbd] {
+  color: #fff;
+  background-color: #1b6ec2;
+  border-color: #1861ac;
+}
+
+.border-top[b-h7gs6dorbd] {
+    border-top: 1px solid #f8ae00 !important;
+}
+.border-bottom[b-h7gs6dorbd] {
+    border-bottom: 1px solid #f8ae00 !important;
+}
+
+.box-shadow[b-h7gs6dorbd] {
+  box-shadow: 0 .25rem .75rem rgba(0, 0, 0, .05);
+}
+
+button.accept-policy[b-h7gs6dorbd] {
+  font-size: 1rem;
+  line-height: inherit;
+}
+
+.footer[b-h7gs6dorbd] {
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    white-space: nowrap;
+    line-height: 60px;
+}
+
+
+
+
+.ClassHeader[b-h7gs6dorbd] {
+
+
+}
+.container-fluid[b-h7gs6dorbd] {
+       
+       width: 78%;
+}
+
+
+.Logo[b-h7gs6dorbd] {
+    width: 7.50%;
+    padding: 6px;
+    
+}
+
+.flex-sm-grow-1[b-h7gs6dorbd] {
+    padding-left: .8rem;
+    padding-right: .8rem;
+}
+
+.vr[b-h7gs6dorbd] {
+    opacity:75%;
+    padding:1px;
+    top:0;
+   
+    
+
+}
+
+.main-footer-box[b-h7gs6dorbd]{
+    padding: 70px 0;
+}
+
+.containerclass[b-h7gs6dorbd] {
+    margin-left:450px;
+}
+

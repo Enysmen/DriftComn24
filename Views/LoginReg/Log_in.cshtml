@@ -1,0 +1,37 @@
+﻿@{
+    ViewData["Title"] = "Login";
+}
+ 
+<div class="container-sm ">
+    <div class=" forms row justify-content-center ">
+        <div class="col-sm-4">
+            <form>
+                <div class="col mb-sm-4  ">
+                    <label for="EmailInputfield" class="form-label">Email address:</label>
+                    <input type="email" class="form-control" id="EmailInputfieldID" aria-describedby="emailHelp" placeholder="Entry Email">
+                    
+                </div>
+                <div class="col mb-sm-4 ">
+                    <label for="PasswordInputfield" class="form-label">Password:</label>
+                    <input type="password" class="form-control" id="PasswordInputfieldID" placeholder="Entry Password">
+                    
+                </div>
+                <div class="col mb-sm-4 form-check left">
+                    <input type="checkbox" class="form-check-input align-content-sm-start" id="CheckBoxID">
+                    <label class="form-check-label" for="CheckMe">Remember Me</label>
+                </div>
+                <div class="col mb-sm-4 right">
+                    <a class="link-warning" asp-area="" asp-controller="" asp-action="">Forgot Password?</a>
+                </div>
+                <div class="d-grid gap-0">
+                    <button type="submit" class="btn btn-warning mb-4">Login</button>
+                    <a class="btn btn-warning mb-4" asp-area="" asp-controller="Reg" asp-action="Reg_in" role="button" tabindex="-1">Create a new account</a>
+                </div>
+            </form>
+        </div>
+    </div>
+</div>
+    
+
+
+

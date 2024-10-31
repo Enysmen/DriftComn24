@@ -1,0 +1,24 @@
+.forms[b-favtd4ilap] {
+    
+    padding: 250px 0 110px 0;
+
+}
+
+@media (max-width: 576px) {
+    .left[b-favtd4ilap],
+    .right[b-favtd4ilap] {
+        margin-left: 0px;
+        margin-right: 0px;
+    }
+}
+
+.left[b-favtd4ilap] {
+    margin-right: 8.333333%;
+    position:absolute;
+}
+
+.right[b-favtd4ilap] {
+    position: relative;
+    display:flex;
+    justify-content:right;
+}

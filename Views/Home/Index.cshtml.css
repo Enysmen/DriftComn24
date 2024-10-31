@@ -1,0 +1,46 @@
+﻿@media (min-width: 576px) {
+    .carousel-inner {
+        display: flex;
+        
+    }
+
+    .carousel-item {
+        margin-right: 0;
+        flex: 0 0 19.555555%;
+        display: block;
+    }
+
+}
+
+.carousel-inner {
+    padding: 1em;
+}
+
+.carousel-control-prev, .carousel-control-next {
+    background-color: #f8ae00;
+    width: 6vh;
+    height: 6vh;
+    border-radius: 40%;
+    top: 35%;
+    transform: translateX(20%);
+}
+
+
+.card {
+    margin: 0 .5em;
+    box-shadow: 2px 6px 8px 0 rgba(22, 22, 26, 0.18);
+    border: none;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.cardimgclass {
+    min-height: 12rem;
+    -webkit-border-top-left-radius: 5px;
+    -webkit-border-top-right-radius: 5px;
+    -moz-border-radius-topleft: 5px;
+    -moz-border-radius-topright: 5px;
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+}

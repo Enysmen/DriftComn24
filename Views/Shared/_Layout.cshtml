@@ -1,0 +1,149 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>@ViewData["Title"] - DriftComn24</title>
+    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" asp-append-version="true" />
+    <link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
+    <link rel="stylesheet" href="~/DriftComn24.styles.css" asp-append-version="true" />
+    <link rel="stylesheet" href="~/Views/Shared/_Layout.cshtml.css" asp-append-version="true" />
+   
+</head>
+<body>
+    <!---- Header ---->
+        <header class="ClassHeader" id="Headernav">
+        <nav class="navbar navbar-expand-sm navbar-toggleable-sm  border-bottom box-shadow mb-4 ">
+            <div class="container-fluid ">
+                <div class="Logo me-sm-4">
+                    <a class="navbar-brand" asp-area="" asp-controller="Home" asp-action="Index"><img class="img-fluid" alt="HubLogo" src="~/Images/Logos.png"/> </a>
+                </div>
+
+                <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target=".navbar-collapse" aria-controls="navbarSupportedContent"
+                        aria-expanded="false" aria-label="Toggle navigation">
+                    <span class="navbar-toggler-icon"></span>
+                </button>
+
+                <div class="navbar-collapse collapse d-sm-inline-flex justify-content-between">
+                        <ul class="navbar-nav flex-grow-1 text-uppercase ">
+                            <li class="nav-item me-sm-4">
+                                <a class="nav-link link-warning " asp-area="" asp-controller="Home" asp-action="Index">Home</a>
+                            </li>
+                            <li class="nav-item me-sm-4">
+                                <a class="nav-link link-warning " asp-area="" asp-controller="Home" asp-action="Privacy">News</a>
+                            </li>
+                            <li class="nav-item me-sm-4">
+                                <a class="nav-link link-warning " asp-area="" asp-controller="Home" asp-action="Privacy">Mods</a>
+                            </li>
+                            <li class="nav-item me-sm-4">
+                                <a class="nav-link link-warning " asp-area="" asp-controller="Home" asp-action="Privacy">Championship</a>
+                            </li>
+                            <li class="nav-item me-sm-4">
+                                <a class="nav-link link-warning" asp-area="" asp-controller="Home" asp-action="Privacy">Forum</a>
+                            </li>
+                            <li class="nav-item me-sm-4 ">
+                                <a class="nav-link link-warning " asp-area="" asp-controller="Home" asp-action="Privacy">About</a>
+                            </li>
+                        </ul>
+                        <a class="btn btn-outline-warning me-sm-4" role="button" tabindex="-1" asp-area="" asp-controller="Login" asp-action="Log_in">Log in</a>
+                    <a class="btn btn-outline-warning" role="button" tabindex="-1" asp-area="" asp-controller="Reg" asp-action="Reg_in">Sign in</a>
+                </div>
+            </div>
+        </nav>
+        </header>
+    <!---- Header ---->
+
+     <!--- Main ---->
+    <div class="container ">
+        <main role="main" class="pb-3 justify-content-center">
+            @RenderBody()
+        </main>
+    </div>
+    <!--- Main ---->
+
+    <div class="main-footer-box">
+        <div class="container containerclass">
+            <div class="row">
+                <div class="col-sm-3">
+                    <a class="" asp-area="" asp-controller="Home" asp-action="Index"><img class="footerimg" alt="HubLogo" src="~/Images/Logos.png" width="93px" height="25px" /> </a>
+                </div>
+                <div class="col-sm-3">
+                    <div class="box-shadow">
+                        <div class="Headermain text-uppercase">Links</div>
+                        <ul class="navbar-nav">
+                            <li class="nav-item">
+                                <a class="nav-link link-warning text-decoration-none" asp-area="" asp-controller="Home" asp-action="Index" tabindex="-1">News</a>
+                            </li>
+                            <li>
+                                <a class="nav-link link-warning text-decoration-none" asp-area="" asp-controller="Home" asp-action="Index" tabindex="-1">Championship</a>
+                            </li> 
+                            <li>
+                                <a class="nav-link link-warning text-decoration-none" asp-area="" asp-controller="Home" asp-action="Index" tabindex="-1">Forum</a>
+                            </li>
+                            <li>
+                                <a class="nav-link link-warning text-decoration-none" asp-area="" asp-controller="Home" asp-action="Index" tabindex="-1">About us</a>
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+                <div class="col-sm-3">
+                    <div class="box-shadow ">
+                        <div class="Headermain text-uppercase">Mods</div>
+                        <ul class="navbar-nav">
+                            <li class="nav-item">
+                                <a class="nav-link link-warning text-decoration-none" asp-area="" asp-controller="Home" asp-action="Index">Cars Packs</a>
+                            </li>
+                            <li class="nav-item">
+                                <a class="nav-link link-warning text-decoration-none" asp-area="" asp-controller="Home" asp-action="Index">Tracks</a>
+                            </li>
+                            <li class="nav-item">
+                                <a class="nav-link link-warning text-decoration-none" asp-area="" asp-controller="Home" asp-action="Index">Skins</a>
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+                <div class="col-sm-3">
+                    <div class="box-shadow ">
+                        <div class="Headermain">SOCIAL MEDIA</div>
+                            <ul class="navbar-nav">
+                                <li class="nav-item">
+
+                                </li>
+                            </ul>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <footer class="border-top footer ">
+        <div class="container-fluid">
+            <div class="row">
+                <div class="col justify-content-between">
+                    <div class="copyright ">
+                        © 2024 DriftComn24
+                    </div>
+                </div>
+                    
+                    <div class="vr"></div>
+                    <div class="col col-sm-auto d-flex justify-content-sm-end">
+                        <a asp-area="" asp-controller="Home" asp-action="Privacy" class="link-warning text-decoration-none " tabindex="-1"  >About us</a>
+                    </div>
+                    <div class="vr "></div>
+                    <div class="col col-sm-auto d-flex justify-content-sm-end" >
+                        <a asp-area="" asp-controller="Home" asp-action="Privacy" class="link-warning text-decoration-none " tabindex="-1">Privacy Policy</a>
+                    </div>
+                    <div class="vr "></div>
+                    <div class="col col-sm-auto d-flex justify-content-sm-end" >
+                        <a asp-area="" asp-controller="Home" asp-action="Privacy" class="link-warning text-decoration-none" tabindex="-1">Cookie Preferences</a>
+                    </div>
+                    <div class="vr"></div>
+            </div> 
+        </div>
+    </footer>
+    <script src="~/lib/jquery/dist/jquery.min.js"></script>
+    <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="~/js/site.js" asp-append-version="true"></script>
+    @await RenderSectionAsync("Scripts", required: false)
+</body>
+</html>
